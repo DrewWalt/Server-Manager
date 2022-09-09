@@ -1,0 +1,6 @@
+[submodule "Server-Front-End"]
+	path = Server-Front-End
+	url = https://github.com/DrewWalt/Server-Front-End.git
+[submodule "Server-Back-End"]
+	path = Server-Back-End
+	url = https://github.com/DrewWalt/Server-Back-End.git
